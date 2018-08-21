@@ -21,7 +21,7 @@
 
 project = 'Mwg docs'
 copyright = '2018, vo nhat nam'
-author = 'vo nhat nam'
+author = 'vonhatnam'
 
 # The short X.Y version
 version = ''
